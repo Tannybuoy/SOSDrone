@@ -14,16 +14,9 @@ In case you lose your mobile phone, are not carrying it with you or don't have b
 We built SOS-Drone using Google-cloud's vision API for handwriting recognition, and it works wonderfully to detect text written using in sand, snow, or even using rocks. We then had the realisation of using this API to build something that detects SOS from a distance - which could be done through drones. 
 
 ## Results 
-
----
-<p align="center">
-  <img src="sos_beach.jpg" width="350" title="hover text">
-  <img src="sos_rocks.jpg" width="350" alt="accessibility text">
-</p>
-
 <figure>
-  <img src="sos_rocks.jpg" alt="my img"/>
-  <figcaption> Your text </figcaption>
+  <img src="sos_roof.jpg" width="350" alt="my img"/>
+  <figcaption>Confidence of 'SOS' detection is 0.92</figcaption>
 </figure>
 
 ## Challenges I ran into
