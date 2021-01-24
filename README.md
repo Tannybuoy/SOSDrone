@@ -18,6 +18,10 @@ We built SOS-Drone using Google-cloud's vision API for handwriting recognition, 
   <img src="sos_roof.jpg" width="350" alt="my img"/>
   <figcaption>Confidence of 'SOS' detection is 0.92</figcaption>
 </figure>
+<figure>
+  <img src="sos_beach.jpg" width="350" alt="my img"/>
+  <figcaption>Confidence of 'SOS' detection is 0.61</figcaption>
+</figure>
 
 ## Challenges I ran into
 I first planned to make my own deep learning model to detect SOS text using images available on the internet, but unfortunately that would take too much time and none of our team members have experience with Deep Learning. Then we explored the Google Cloud APIs, and that's where I came across the Vision API. It has a surprisingly high accuracy!
